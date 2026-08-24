@@ -12,3 +12,8 @@ A progressive Python repository showing learning from beginner to advanced level
 7. APIs
 8. Automation
 9. Advanced Python
+10. Data Analysis
+11. Machine Learning
+12. Capstone
+
+Each folder contains runnable examples/projects that become progressively more advanced.
